@@ -1,3 +1,17 @@
-data/stocks_data/
+crsp/
 
-test.ipynb
+data/stocks_data/single_period_data/
+
+data/model_data/
+
+result/gbdt/*.parquet
+
+result/lightgbm/*.parquet
+
+result/nn/*.parquet
+
+result/rf/*.parquet
+
+result/xgboost/*.parquet
+
+result/*.parquet
